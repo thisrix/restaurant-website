@@ -1,1 +1,26 @@
+/* css/style.css */
+body {
+  background-color: #FFF8F0;
+  color: #333333;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+header, nav {
+  background-color: #8B0000;
+  color: #FFFFFF;
+}
+
+nav a {
+  color: #FFD700;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+button {
+  background-color: #FFD700;
+  color: #8B0000;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
 
